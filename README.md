@@ -1,4 +1,4 @@
-# Sengoku-Dynasty-Thai
+# Sengoku-Dynasty-Thai 1.0.1.x
 แปลไปเรื่อย
 
 ## วิธีการติดตั้ง
