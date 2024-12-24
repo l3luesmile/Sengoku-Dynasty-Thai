@@ -9,5 +9,10 @@
 ## วิธีถอนการติดตั้ง
 1. ลบไฟล์ zSDThai_P.pak ที่ไว้ใน ~mods
 
-แปลใหม่ทั้งหมดจาก
-- [nexusmods](https://www.nexusmods.com/sengokudynasty/mods/2)
+
+# Font Credit
+Sriracha (OFL) โดย คัดสรรดีมาก
+Noto Sans Thai (OFL) โดย กูเกิล
+Droid Sans Thai (Apache 2.0) โดย Steve Matterson
+
+# ร่วมสนับสนุนได้ที่ [Discord](https://discord.gg/DTCmF34z) 
