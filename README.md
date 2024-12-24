@@ -1,5 +1,5 @@
 # Sengoku Dynasty ม็อดภาษาไทย 1.0.1.x
-แปลไปเรื่อยว่างๆก็แปลไม่รู้ทำไรก็แปลเลี้ยงลูกไปด้วยแปลไปด้วย
+แปลไปเรื่อยว่างๆก็แปลไม่รู้ทำไรก็แปลเลี้ยงลูกไปด้วยแปลไปด้วย Sengoku Dynasty mod thai
 
 ## วิธีการติดตั้ง
 1. เปิดโฟลเดอร์เกม steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks
